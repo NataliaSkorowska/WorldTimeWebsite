@@ -1,0 +1,24 @@
+<header class="text-end fixed-top container">
+    <h1 class="display-1">World<span class="badge bg-secondary">Time</span></h1>
+    <div class="row p-3">
+        <div class="col fs-2 mt-3">
+            <ul class="list-unstyled justify-content-around">
+                <li class="p-3">Warsaw <button class="btn btn-lg btn-outline-light" data-bs-toggle="tooltip"
+                        title="Current time in Warsaw" (click)="warsawTime()"><i class="bi bi-clock-fill"></i></button>
+                </li>
+                <li class="p-3">New York <button class="btn btn-lg btn-outline-light" data-bs-toggle="tooltip"
+                        title="Current time in New York" (click)="newYorkTime()"><i
+                            class="bi bi-clock-fill"></i></button></li>
+                <li class="p-3">Tokyo <button class="btn btn-lg btn-outline-light " data-bs-toggle="tooltip"
+                        title="Current time in Tokyo" (click)="tokyoTime()"><i class="bi bi-clock-fill"></i></button>
+                </li>
+                <li class="p-3">Sydney <button class="btn btn-lg btn-outline-light" data-bs-toggle="tooltip"
+                        title="Current time in Sydney" (click)="sydneyTime()"><i class="bi bi-clock-fill"></i></button>
+                </li>
+                <li class="p-3">Cairo <button class="btn btn-lg btn-outline-light" data-bs-toggle="tooltip"
+                        title="Current time in Cairo" (click)="cairoTime()"><i class="bi bi-clock-fill"></i></button>
+                </li>
+            </ul>
+        </div>
+    </div>
+</header>
