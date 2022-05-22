@@ -1,6 +1,5 @@
-# Worldtimeapp
-
 # WorldTimeWebsite
+
 ## Spis treści
 * [Introduction](#Introduction)
 * [Technologies and tools](#Technologies-and-tools)
@@ -8,7 +7,7 @@
 * [Setup](#Setup)
 
 ## Introduction
-WorldTime is a website which shows current time in 5 different cities and time zones. Using external api from https://worldtimeapi.org/. Website contains 5 buttons - every button represents one continent and city:
+WorldTime is a website which shows current time in 5 different cities and time zones. Using api from https://worldtimeapi.org/. Website contains 5 buttons - every button represents one continent and city:
 1. Europe/Warsaw
 2. America/NewYork
 3. Asia/Tokyo
