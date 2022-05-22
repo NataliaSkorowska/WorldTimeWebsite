@@ -25,6 +25,11 @@ WorldTime is a website which shows current time in 5 different cities and time z
 
 ## Interface
 
+Main page
+![Main page](./imgReadme/mainPage.png) 
+
+Current time alert
+![Alert displaying current time](./imgReadm/currentTime.png) 
 ## Setup
 ```
 npm install
