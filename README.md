@@ -7,7 +7,7 @@
 * [Interface](#Interface)
 * [Setup](#Setup)
 
-## Introdaction
+## Introduction
 WorldTime is a website which shows current time in 5 different cities and time zones.
 
 ## Technologies and tools
