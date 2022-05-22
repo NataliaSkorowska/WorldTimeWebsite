@@ -26,15 +26,15 @@ Current time is shown as an alert which closes after 3 seconds or can be closed 
 | 4 | Bootstrap icons | Icons library  | 1.8.2 |
 | 5 | SweetAlert2 | Custom alerts | 11.4.14  |
 | 6 | HTML5 | Website structure |  7.24.0 |
-| 7 | API | WorldTimeApi - to get current time from different time zones | 0.6.4 |
+| 7 | WorldTimeApi | API - to get current time from different time zones | 0.6.4 |
 | 8 | Node.js | Engine |  14.17.4 |
 
 ## Interface
 
-Main page
+### Main page
 ![Main page](./imgReadme/mainPage.png) 
 
-Current time alert
+### Current time alert
 ![Alert displaying current time](./imgReadme/currentTime.png) 
 ## Setup
 ```
