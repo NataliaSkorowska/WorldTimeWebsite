@@ -13,6 +13,7 @@ WorldTime is a website which shows current time in 5 different cities and time z
 3. Asia/Tokyo
 4. Australia/Sydney
 5. Africa/Cairo
+
 Current time is shown as an alert which closes after 3 seconds or can be closed manually by user.
 
 ## Technologies and tools
