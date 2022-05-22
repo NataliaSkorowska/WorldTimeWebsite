@@ -29,7 +29,7 @@ Main page
 ![Main page](./imgReadme/mainPage.png) 
 
 Current time alert
-![Alert displaying current time](./imgReadm/currentTime.png) 
+![Alert displaying current time](./imgReadme/currentTime.png) 
 ## Setup
 ```
 npm install
