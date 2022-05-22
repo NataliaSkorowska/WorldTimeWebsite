@@ -1,27 +1,33 @@
 # Worldtimeapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
+# WorldTimeWebsite
+## Spis treści
+* [Introduction](#Introduction)
+* [Technologies and tools](#Technologies-and-tools)
+* [Interface](#Interface)
+* [Setup](#Setup)
 
-## Development server
+## Introdaction
+WorldTime is a website which shows current time in 5 different cities and time zones.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Technologies and tools
 
-## Code scaffolding
+| ID | Name | Zastosowanie | Wersja |
+| ------- | -------|------|------| 
+| 1 | Visual Studio Code | Development Environment | - |
+| 2 | Angular | App framework | 13.1.1 |
+| 3 | Bootstrap | CSS framework | 5.1.3 |
+| 4 | Bootstrap icons | Icons library  | 1.8.2 |
+| 4 | SweetAlert2 | Custom alerts | 11.4.14  |
+| 6 | HTML5 | Website structure |  7.24.0 |
+| 7 | API | WorldTimeApi - to get current time from different time zones | 0.6.4 |
+| 8 | Node.js | Engine |  14.17.4 |
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Interface
 
-## Build
+## Setup
+```
+npm install
+ng serve
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```
